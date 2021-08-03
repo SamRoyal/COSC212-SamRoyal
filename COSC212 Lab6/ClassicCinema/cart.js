@@ -1,4 +1,6 @@
 
+
+
 var Cart = (function() {
     var pub = {};
 
@@ -9,14 +11,19 @@ var Cart = (function() {
     }
 
     function CartDetails() {
-        var test;
         var cartObject1 = new CartObject();
         cartObject1.title = this.parentNode.parentNode.getElementsByTagName("h3")[0].textContent;
         cartObject1.price = this.parentNode.parentNode.getElementsByClassName("price")[0].textContent;
-        alert(JSON.stringify(cartObject1));
+        if(Cookie.get("cart")==null){
+            Cookie.set("cart",JSON.stringify([cartObject1]));
+        }
+        else{
+            let temp = JSON.parse(Cookie.get("cart"));
+            temp.push(cartObject1);
+            Cookie.set("cart",JSON.stringify((temp)));
+        }
 
-
-    }
+    };
 
 
     pub.setup = function () {

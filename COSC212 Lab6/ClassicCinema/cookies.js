@@ -13,7 +13,7 @@ var Cookie = (function () {
         } else {
             expires = "";
         }
-        document.cookie = encodeURIComponent(name) + "=" + encodeURIComponent(value) + expires + "; path=/");
+        document.cookie = (encodeURIComponent(name) + "=" + encodeURIComponent(value) + expires + "; path=/");
     };
 
 
@@ -34,7 +34,7 @@ var Cookie = (function () {
 
 
     pub.clear = function (name) {
-        pub.set(name, "", -1);
+        pub.set(encodeURIComponent(name), "", -1);
     };
     return pub;
 }());
