@@ -1,7 +1,15 @@
+/* Script that deals with the map displayed on the localParks.html
+*  @author Sam Royal
+*  COSC212 Assignment 1
+*/
+
 var map = (function () {
     var pub = {};
 
-
+    /* Displays a map with the various markers retrieved from
+    *  the POI.geojson file. Also allows the user to display/hide
+    *  some of the local parks in the area or local walking tracks.
+    */
     function showMap() {
         var parksarray = L.layerGroup();
         var walksarray = L.layerGroup();
@@ -27,7 +35,7 @@ var map = (function () {
             "Parks": parksarray,
             "Walking Tracks": walksarray
         };
-        L.control.layers(null, overlayMaps).addTo(map);
+        L.control.layers(null, overlayMaps).addTo(map); // controls the show/hide of the walking/park markers.
 
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
             {

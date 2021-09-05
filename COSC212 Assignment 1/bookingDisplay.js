@@ -1,6 +1,16 @@
+/* Script that deals with the displaying of current
+*  bookings in local storage and gives the user a total price.
+*  @author Sam Royal
+*  COSC212 Assignment 1
+*/
+
+
 var bookingDisplay = (function () {
     var pub = {};
-
+    /* Adds booking info stored in local storage to
+    *  displayBooking.html, also gives a current total
+    *  of all bookings (maximum 3).
+     */
     function displayBookings() {
         var bookingObjects, i;
         var total = 0.0;

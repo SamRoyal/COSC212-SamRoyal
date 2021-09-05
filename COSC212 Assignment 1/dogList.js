@@ -1,6 +1,17 @@
+/* Script that deals with the displaying
+* of available dogs and of available times and booking durations.
+*  @author Sam Royal
+*  COSC212 Assignment 1
+*/
+
 var dogList = (function () {
     var pub = {};
 
+    /*Retrieves all dogs from animals.json,
+    inserts all available dogs into dogList.html, and
+    * categorises them based on whether they are small,
+    * medium, large or big.
+     */
 
     function showDogs() {
         $.getJSON('animals.json', function (data) {
@@ -23,11 +34,13 @@ var dogList = (function () {
         });
     }
 
-
+    /* Called by showDogs, appends all relevant info to the relevant
+    * heading inside doglist.html. Also deals with the available
+    * times for booking.
+     */
     function showDogdetail(i, f, dogsize) {
-        $("." + dogsize).append('style="display:none"> ' +
-            '<section class ="dogs" id=' + '"' + f.dogId +
-            '"' +
+        $("." + dogsize).append('<section class ="dogs" id=' + '"' + f.dogId +
+            '"' + 'style="display:none">' +
             '<img src =' + '"' + 'images/' +
             (f.dogSize).toLowerCase() + '.jpg' + '" ' +
             ' alt=' + (f.dogSize).toLowerCase() + '>' +
@@ -58,7 +71,7 @@ var dogList = (function () {
             '<input type="button" value="Book Dog" class="book"> ' +
             '</p>' +
             '</section>');
-        $(".datepicker").datepicker({
+        $(".datepicker").datepicker({ // Checks whether after a date is selected what booking times are available.
             onSelect: function (dateText) {
                 var timeList = ['07:30', '08:00', '08:30', '09:00',
                     '09:30', '10:00', '10:30', '11:00', '11:30',
@@ -103,6 +116,9 @@ var dogList = (function () {
         });
     }
 
+
+    /* Displays/hides the reviews retrieved from reviews.json
+     */
     function showReviews() {
         $.getJSON('reviews.json', function (data) {
             $.each(data, function (i, f) {
@@ -116,10 +132,10 @@ var dogList = (function () {
     pub.setup = function () {
         var count = 0;
         showDogs();
-        $("h3").css('cursor', 'pointer').click(function () {
+        $("h3").css('cursor', 'pointer').click(function () { // show/hide dogs when heading is clicked
             $(this).parent().find(".dogs").toggle();
         });
-        $(".showReviews").css('cursor', 'pointer').click(function () {
+        $(".showReviews").css('cursor', 'pointer').click(function () {// show/hide reviews on reviews button click
             if (count === 0) {
                 showReviews();
                 count += 1;
