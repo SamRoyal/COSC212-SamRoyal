@@ -68,6 +68,125 @@
               -45.911675131971606
             ]
           }
-        }
+        },
+     {
+              "type": "Feature",
+              "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "type": "park",
+                "name": "Opoho Park"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  170.527225,
+                  -45.8589
+                ]
+              }
+            },
+     {
+                   "type": "Feature",
+                   "properties": {
+                     "marker-color": "#7e7e7e",
+                     "marker-size": "medium",
+                     "marker-symbol": "",
+                     "type": "office",
+                     "name": "RentADog Offices"
+                   },
+                   "geometry": {
+                     "type": "Point",
+                     "coordinates": [
+                       170.51143,
+                       -45.862857
+                     ]
+                   }
+                 },
+      {
+                "type": "Feature",
+                   "properties": {
+                     "marker-color": "#7e7e7e",
+                     "marker-size": "medium",
+                     "marker-symbol": "",
+                     "type": "park",
+                     "name": "Prospect Park"
+                   },
+                   "geometry": {
+                     "type": "Point",
+                     "coordinates": [
+                       170.508728,
+                       -45.856957
+                     ]
+                   }
+                 },
+     {
+                     "type": "Feature",
+                        "properties": {
+                          "marker-color": "#7e7e7e",
+                          "marker-size": "medium",
+                          "marker-symbol": "",
+                          "type": "park",
+                          "name": "Woodhaugh Gardens"
+                        },
+                        "geometry": {
+                          "type": "Point",
+                          "coordinates": [
+                            170.510666,
+                            -45.854555
+                          ]
+                        }
+                      },
+        {
+                           "type": "Feature",
+                              "properties": {
+                                "marker-color": "#7e7e7e",
+                                "marker-size": "medium",
+                                "marker-symbol": "",
+                                "type": "walking track",
+                                "name": "Ross Creek Reservoir Forest Walk"
+                              },
+                              "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                  170.495939,
+                                  -45.844943
+                                ]
+                              }
+                            },
+         {
+                                   "type": "Feature",
+                                      "properties": {
+                                        "marker-color": "#7e7e7e",
+                                        "marker-size": "medium",
+                                        "marker-symbol": "",
+                                        "type": "walking track",
+                                        "name": "Frasers Gully Bush Walk"
+                                      },
+                                      "geometry": {
+                                        "type": "Point",
+                                        "coordinates": [
+                                          170.469961,
+                                          -45.862876
+                                        ]
+                                      }
+                                    },
+      {
+                                        "type": "Feature",
+                                           "properties": {
+                                             "marker-color": "#7e7e7e",
+                                             "marker-size": "medium",
+                                             "marker-symbol": "",
+                                             "type": "walking track",
+                                             "name": "Tomahawk Lagoon/41-Peg Track"
+                                           },
+                                           "geometry": {
+                                             "type": "Point",
+                                             "coordinates": [
+                                               170.552166,
+                                               -45.902119
+                                             ]
+                                           }
+                                         }
   ]
 }

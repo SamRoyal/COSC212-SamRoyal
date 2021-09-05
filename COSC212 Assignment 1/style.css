@@ -1,0 +1,117 @@
+/*
+A solution for Classic Cinema 2021
+Nick Meek
+ */
+
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    width: 700px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    background-color: darkgrey;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+h1,
+h2 {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 48px;
+    display: inline-block;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 14px;
+}
+
+figure {
+    margin: 0;
+}
+
+/**   Header **/
+header {
+    top: 0;
+    width: inherit;
+    z-index: 100;
+    text-align: center;
+}
+
+/** Login form **/
+#loginForm label {
+    display: inline-block;
+    width: 60px;
+}
+
+#loginSubmit {
+    float: right;
+}
+
+#user {
+    float: right;
+}
+
+#logout {
+    display: none;
+}
+
+/** Navigation **/
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    width: 75px;
+    margin: 0 10px 0 0;
+}
+
+
+nav {
+    font-size: 14px;
+    margin-top: 25px;
+}
+
+/** main element **/
+/*    !*big top margin to display below header*!*/
+main {
+    margin-top: 150px;
+}
+
+/**   Contact page   **/
+.contact {
+    list-style-type: none;
+    display: flex;
+}
+
+.contact li {
+    text-align: center;
+    width: 32%;
+}
+
+/**   Footer   **/
+footer {
+    text-align: right;
+}
+
