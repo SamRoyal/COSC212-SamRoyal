@@ -3,32 +3,32 @@ var Reviews = (function() {
 
 
     function showReviews() {
-        var target = $(this).parent().find (".review")[0];
+        var target = $(this).parent().find(".review")[0];
         var xmlSource = $(this).parent().find("img:first").attr("src").replace("images", "reviews").replace("jpg", "xml");
-        try{
-            $.ajax({
-                type: "GET",
-                url: xmlSource,
-                cache: false,
-                success: function(data) {
-                    parseReviews(data, target);
-                }
-            });
-        }catch(e) {
-            target.append("Sorry no reviews for this film!");
-        }
+        $.ajax({
+            type: "GET",
+            url: xmlSource,
+            cache: false,
+            success: function (data) {
+                parseReviews(data, target);
+            },
+            error: function(){
+                target.append("No reviews for this film")
+            }
+        });
     }
 
 
     function parseReviews(data, target) {
+        $(target).empty();
+        if( $(data).find("review").length === 0){
+            target.append("no reviews for this film.");
+        }
         $(data).find("review").each(function () {
             var rating = $(this).find("rating")[0].textContent;
             var user = $(this).find("user")[0].textContent;
-            if(rating === null || user=== null){
-                target.append("Sorry no reviews for this film!");
-            }else {
-                target.append(user + ": " + rating + "\n");
-            }
+            target.append(user + ": " + rating + "\n");
+
         });
 
     }

@@ -157,6 +157,10 @@ main {
 	width: 32%;
 }
 
+#dynamicList img {
+	opacity: 1;
+}
+
 /**   Footer   **/
 footer {
 	text-align: right;
