@@ -2,24 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8639b235-d11b-4839-bb43-ba98f7e8a702" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/COSC212 Lab12/ball/._ball.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/COSC212 Lab12/ball/ball.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/COSC212 Lab12/ball/ball.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/COSC212 Lab12/ball/ball.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/COSC212 Lab12/ball/ball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab10/ClassicCinema/showHide.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab10/ClassicCinema/showHide.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab11/ClassicCinema/reviews.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab11/ClassicCinema/reviews.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab12/Ajax Example/ajaxResponse.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab12/Ajax Example/helloAjax.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab12/Ajax Example/helloAjax.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab12/Ajax Example/jQuery-1.11.3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab12/ball/jQuery-1.11.3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab10/ClassicCinema/dynamicList.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab10/ClassicCinema/dynamicList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab10/ClassicCinema/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab10/ClassicCinema/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab11/ClassicCinema/dynamicList.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab11/ClassicCinema/dynamicList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab11/ClassicCinema/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab11/ClassicCinema/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/dynamicList.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/dynamicList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/showHide.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/showHide.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab12/Jquery Example/helloJQuery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab12/Jquery Example/jQuery-1.11.3.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab12/Jquery Example/jqeuryHelloWorld.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab4/ClassicCinema/dynamicList.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab4/ClassicCinema/dynamicList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab4/ClassicCinema/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab4/ClassicCinema/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab5/ClassicCinema/dynamicList.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab5/ClassicCinema/dynamicList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab5/ClassicCinema/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab5/ClassicCinema/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab6/ClassicCinema/dynamicList.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab6/ClassicCinema/dynamicList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab6/ClassicCinema/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab6/ClassicCinema/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab7/ClassicCinema/dynamicList.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab7/ClassicCinema/dynamicList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab7/ClassicCinema/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab7/ClassicCinema/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab8/ClassicCinema/dynamicList.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab8/ClassicCinema/dynamicList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab8/ClassicCinema/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab8/ClassicCinema/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab9/ClassicCinema/dynamicList.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab9/ClassicCinema/dynamicList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab9/ClassicCinema/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab9/ClassicCinema/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,72 +35,102 @@
       <executable />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/showHide.js">
+        <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="18" selection-end-column="34" />
+            <state relative-caret-position="150">
+              <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/CartDisplay.js">
+        <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/classic.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="25" />
+            <state relative-caret-position="135">
+              <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/Cart.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/hitchcock.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="795">
+              <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/dynamicList.js">
+        <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/scifi.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+            <state relative-caret-position="120">
+              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/cart.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/cookies.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/hitchcock.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/scifi.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/reviews.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/map.js">
+        <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/reviews.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#9#15#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="15" column="48" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -113,13 +146,35 @@
         <option value="$PROJECT_DIR$/COSC212 Lab10/ClassicCinema/showHide.js" />
         <option value="$PROJECT_DIR$/COSC212 Lab11/ClassicCinema/reviews.js" />
         <option value="$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/dynamicList.js" />
+        <option value="&lt;c3c8b588-2661-4762-aa6a-5d6b9f974d9b&gt;/COSC212 Lab12/ClassicCinema/index.html" />
+        <option value="$PROJECT_DIR$/COSC212 Lab123/ball/ball.js" />
+        <option value="$PROJECT_DIR$/COSC212 Lab13/PHP Intro/phpHelloWorld.html" />
+        <option value="$PROJECT_DIR$/COSC212 Lab13/PHP Intro/hello.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab13/ClassicCinema/footer.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab13/ClassicCinema/header.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab13/ClassicCinema/index.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab13/ClassicCinema/contact.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab13/ClassicCinema/classic.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab13/ClassicCinema/Cart.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab13/ClassicCinema/hitchcock.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab13/ClassicCinema/scifi.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab13/ClassicCinema/reviews.js" />
+        <option value="&lt;c3c8b588-2661-4762-aa6a-5d6b9f974d9b&gt;/COSC212 Lab15/ClassicCinema/scifi.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/index.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/scifi.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/hitchcock.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/Cart.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/classic.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/contact.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/header.php" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="1025" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="490" />
     <option name="y" value="23" />
-    <option name="width" value="1407" />
+    <option name="width" value="2070" />
     <option name="height" value="1337" />
   </component>
   <component name="ProjectView">
@@ -134,17 +189,6 @@
               <item name="COSC212-SamRoyal" type="b2602c69:ProjectViewProjectNode" />
               <item name="COSC212-SamRoyal" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="COSC212-SamRoyal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="COSC212-SamRoyal" type="462c0819:PsiDirectoryNode" />
-              <item name="COSC212 Lab12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="COSC212-SamRoyal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="COSC212-SamRoyal" type="462c0819:PsiDirectoryNode" />
-              <item name="COSC212 Lab12" type="462c0819:PsiDirectoryNode" />
-              <item name="ClassicCinema" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -153,9 +197,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/COSC212 Lab12/ball" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -164,14 +214,16 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/COSC212 Lab12/ball" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/COSC212 Lab12" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/COSC212 Lab12/ball" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -186,29 +238,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration name="classic.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/COSC212-SamRoyal/COSC212 Lab11/ClassicCinema/classic.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.Cart.php">
+    <configuration name="Cart.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="https://dev212.otago.ac.nz:8443/~sroyal/COSC212 Lab15/ClassicCinema/Cart.php">
       <method v="2" />
     </configuration>
-    <configuration name="hitchcock.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/COSC212-SamRoyal/COSC212 Lab12/ClassicCinema/hitchcock.html" useBuiltInWebServerPort="true">
+    <configuration name="hitchcock.php (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="https://dev212.otago.ac.nz:8443/~sroyal/COSC212 Lab15/ClassicCinema/hitchcock.php">
       <method v="2" />
     </configuration>
-    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/COSC212-SamRoyal/COSC212 Lab11/ClassicCinema/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="https://dev212.otago.ac.nz:8443/~sroyal/COSC212 Lab15/ClassicCinema/index.php">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/COSC212-SamRoyal/COSC212 Lab12/ClassicCinema/index.html" useBuiltInWebServerPort="true">
+    <configuration name="scifi.php (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="https://dev212.otago.ac.nz:8443/~sroyal/COSC212 Lab15/ClassicCinema/scifi.php">
       <method v="2" />
     </configuration>
-    <configuration name="scifi.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/COSC212-SamRoyal/COSC212 Lab12/ClassicCinema/scifi.html" useBuiltInWebServerPort="true">
+    <configuration name="classic.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/classic.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.hitchcock.html" />
-        <item itemvalue="JavaScript Debug.scifi.html" />
-        <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="JavaScript Debug.classic.html" />
+        <item itemvalue="JavaScript Debug.Cart.php" />
+        <item itemvalue="JavaScript Debug.hitchcock.php (1)" />
+        <item itemvalue="PHP Script.classic.php" />
+        <item itemvalue="JavaScript Debug.index.php" />
+        <item itemvalue="JavaScript Debug.scifi.php (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -223,54 +275,84 @@
       <option name="presentableId" value="Default" />
       <updated>1631578519341</updated>
       <workItem from="1631578520408" duration="9323000" />
+      <workItem from="1632181133709" duration="2241000" />
+      <workItem from="1632183494132" duration="5572000" />
+      <workItem from="1633330182506" duration="233000" />
     </task>
+    <task id="LOCAL-00001" summary="Lab 15 PHP intro">
+      <created>1632188981279</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632188981279</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9323000" />
+    <option name="totallyTimeSpent" value="17369000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1025" y="23" width="1407" height="1337" extended-state="0" />
-    <editor active="true" />
+    <frame x="490" y="23" width="2070" height="1337" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24981685" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17455621" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32931727" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" />
-      <window_info anchor="bottom" id="Debug" order="8" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32931727" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.32931727" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="bottom" id="File Transfer" order="12" weight="0.33895582" />
+      <window_info anchor="right" id="Database" order="0" weight="0.32967034" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="4" weight="0.2790927" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17307693" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32931727" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32931727" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32931727" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="File Transfer" order="12" weight="0.33895582" />
+      <window_info anchor="right" id="Database" order="0" weight="0.32967034" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="4" visible="true" weight="0.2790927" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab 15 PHP intro" />
+    <MESSAGE value="trying to fix github" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying to fix github" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/Ajax Example/helloAjax.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ball/._ball.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ball/._ball.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/Ajax Example/helloAjax.js" />
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ball/._ball.html" />
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ball/._ball.js" />
     <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ball/jQuery-1.11.3.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -377,24 +459,10 @@
     <entry file="file://$PROJECT_DIR$/COSC212 Lab11/ClassicCinema/Cart.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/cart.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/hitchcock.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/scifi.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/reviews.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/map.js">
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/showHide.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <folding>
-            <element signature="e#9#15#0" expanded="true" />
-          </folding>
+          <caret selection-end-line="18" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -405,27 +473,116 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/showHide.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab11/ClassicCinema/reviews.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/cart.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/cookies.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/hitchcock.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/scifi.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/map.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab13/ball/ball.js" />
     <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/dynamicList.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab15/PHP Intro/hello.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/CartDisplay.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/core-scripting.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/reviews.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab11/ClassicCinema/reviews.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/classic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/Cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/hitchcock.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/reviews.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/scifi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
         </state>
       </provider>
     </entry>

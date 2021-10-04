@@ -8,9 +8,9 @@ function nextCategory() {
 }
 function setup() {
     categoryList = [];
-    var movieCategory1 =  new MovieCategory("Classics Movies","images/Metropolis.jpg","classic.html");
-    var movieCategory2 =  new MovieCategory("Science Fiction and horror ","images/Plan_9_from_Outer_Space.jpg","scifi.html");
-    var movieCategory3 =  new MovieCategory("Alfred Hitchcock","images/The_Birds.jpg","hitchcock.html");
+    var movieCategory1 =  new MovieCategory("Classics Movies","images/Metropolis.jpg","classic.php");
+    var movieCategory2 =  new MovieCategory("Science Fiction and horror ","images/Plan_9_from_Outer_Space.jpg","scifi.php");
+    var movieCategory3 =  new MovieCategory("Alfred Hitchcock","images/The_Birds.jpg","hitchcock.php");
     categoryList.push(movieCategory1);
     categoryList.push(movieCategory2);
     categoryList.push(movieCategory3);
