@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,7 +13,7 @@
         include('htaccess/header.php');
         include('htaccess/dbconnection.php');
         ?>
-        <form id="registration" action="<?php echo $_SERVER['PHP_SELF']?>" method="GET">
+        <form id="registration" action="register.php" method="GET">
             <p>
                 <label for="username">Username:</label>
                 <input id="username" type="text" name="username">
@@ -54,8 +53,8 @@
 
             $query = "SELECT * FROM Users WHERE username = '$user'";
             $result = $conn->query($query);
-            if ($result->num_rows === 0) {
-                echo "THIS USERNAME IS FREE";
+            if ($result->num_rows === 0 && $formokay==true) {
+                echo "Successfully Registered";
             } else {
                 $formokay=false;
                 echo "THIS USERNAME IS TAKEN";

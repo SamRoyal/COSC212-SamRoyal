@@ -1,4 +1,3 @@
-
 <header>
     <?php
     if (isset($scriptList) && is_array($scriptList)) {

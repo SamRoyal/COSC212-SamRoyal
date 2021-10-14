@@ -11,8 +11,8 @@ function setup() {
                 $('#table').append('SUCCESS. Please check the orders page');
                 $('#table').append(data);
             },
-            error: function (data) {
-                alert("Ajax Failed");
+            error: function (XMLHttpRequest, textStatus, errorThrown) {
+                alert("Status: " + textStatus); alert("Error: " + XMLHttpRequest.responseText); alert(errorThrown);
             }
         });
 

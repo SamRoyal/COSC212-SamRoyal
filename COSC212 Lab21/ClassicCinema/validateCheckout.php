@@ -21,8 +21,8 @@ $_SESSION['cardType'] = $_POST['cardType'];
     </head>
     <?php
     $scriptList = array('jQuery-1.11.3.min.js');
-    include("header.php");
-    include("validationFunctions.php");
+    include("htaccess/header.php");
+    include("htaccess/validationFunctions.php");
     ?>
     <body>
 <main>
@@ -68,7 +68,6 @@ $_SESSION['cardType'] = $_POST['cardType'];
             echo "<p>Please enter a vaild CVC</p>";
         }
 
-//        var_dump($_SESSION);
 
 
 

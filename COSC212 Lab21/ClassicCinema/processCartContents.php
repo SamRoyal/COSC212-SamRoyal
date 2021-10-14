@@ -1,10 +1,8 @@
 <?php
 session_start();
 ?>
-
 <table>
-
-<?php
+    <?php
 $arr = json_decode(file_get_contents("php://input"));
 foreach ($arr as $value){
     echo '<tr><th>';
@@ -17,7 +15,6 @@ foreach ($arr as $value){
 </table>
 
 <?php
-
 $orders = simplexml_load_file('htaccess/orders.xml');
 $newOrder = $orders->addChild('order');
 $delivery = $newOrder->addChild('delivery');
