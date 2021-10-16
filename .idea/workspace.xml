@@ -1,28 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8639b235-d11b-4839-bb43-ba98f7e8a702" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+    <list default="true" id="8639b235-d11b-4839-bb43-ba98f7e8a702" name="Default Changelist" comment="Finished lab 23">
+      <change afterPath="$PROJECT_DIR$/assignment/._json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/addBooking.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/addDog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/cancelBooking.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/editDog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/htaccess/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/htaccess/dbconnection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/htaccess/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/htaccess/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/images/huge.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/images/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/images/layers-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/images/layers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/images/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/images/marker-icon-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/images/marker-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/images/marker-shadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/images/medium.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/images/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/jquery-ui-1.12.1/AUTHORS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/jquery-ui-1.12.1/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/jquery-ui-1.12.1/external/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/jquery-ui-1.12.1/images/ui-icons_444444_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/jquery-ui-1.12.1/images/ui-icons_555555_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/jquery-ui-1.12.1/images/ui-icons_777620_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/jquery-ui-1.12.1/images/ui-icons_777777_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/jquery-ui-1.12.1/images/ui-icons_cc0000_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/jquery-ui-1.12.1/images/ui-icons_ffffff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/jquery-ui-1.12.1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/jquery-ui-1.12.1/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/jquery-ui-1.12.1/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/jquery-ui-1.12.1/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/jquery-ui-1.12.1/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/jquery-ui-1.12.1/jquery-ui.structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/jquery-ui-1.12.1/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/jquery-ui-1.12.1/jquery-ui.theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/jquery-ui-1.12.1/jquery-ui.theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/jquery-ui-1.12.1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/._Dogs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/._jquery" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/._leaflet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/._leaflet.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/Booking.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/Dogs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/ShowReviews.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/jquery/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/jquery/._images" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/jquery/._jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/jquery/._jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/jquery/._jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/jquery/._jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/jquery/._jquery3.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/jquery/images/._ui-icons_444444_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/jquery/images/._ui-icons_555555_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/jquery/images/._ui-icons_777620_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/jquery/images/._ui-icons_777777_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/jquery/images/ui-icons_444444_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/jquery/images/ui-icons_555555_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/jquery/images/ui-icons_777620_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/jquery/images/ui-icons_777777_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/jquery/jQuery-1.11.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/jquery/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/jquery/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/jquery/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/jquery/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/jquery/jquery-ui.theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/jquery/jquery3.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/jquery/leaflet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/leaflet-src.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/leaflet-src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/leaflet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/leaflet.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/js/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/json/._animals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/json/._bookings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/json/._reviews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/json/animals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/json/bookings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/json/reviews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/json/temp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/leaflet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/localParks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/removeDog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab10/ClassicCinema/dynamicList.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab10/ClassicCinema/dynamicList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab10/ClassicCinema/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab10/ClassicCinema/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab11/ClassicCinema/dynamicList.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab11/ClassicCinema/dynamicList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab11/ClassicCinema/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab11/ClassicCinema/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/dynamicList.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/dynamicList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab4/ClassicCinema/dynamicList.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab4/ClassicCinema/dynamicList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab4/ClassicCinema/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab4/ClassicCinema/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab5/ClassicCinema/dynamicList.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab5/ClassicCinema/dynamicList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab5/ClassicCinema/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab5/ClassicCinema/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab6/ClassicCinema/dynamicList.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab6/ClassicCinema/dynamicList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab6/ClassicCinema/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab6/ClassicCinema/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab7/ClassicCinema/dynamicList.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab7/ClassicCinema/dynamicList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab7/ClassicCinema/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab7/ClassicCinema/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab8/ClassicCinema/dynamicList.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab8/ClassicCinema/dynamicList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab8/ClassicCinema/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab8/ClassicCinema/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab9/ClassicCinema/dynamicList.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab9/ClassicCinema/dynamicList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC212 Lab9/ClassicCinema/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab9/ClassicCinema/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Assignment 1/POI.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/assignment/json/POI.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Assignment 1/jQuery-1.11.3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Assignment 1/jQuery-1.11.3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Assignment 1/jquery-ui-1.12.1/external/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Assignment 1/jquery-ui-1.12.1/external/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Assignment 1/map.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Assignment 1/map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab10/ClassicCinema/jQuery-1.11.3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab10/ClassicCinema/jQuery-1.11.3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab10/jQuery-1.11.3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab10/jQuery-1.11.3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab11/Ajax Example/jQuery-1.11.3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab11/Ajax Example/jQuery-1.11.3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab11/ClassicCinema/jQuery-1.11.3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab11/ClassicCinema/jQuery-1.11.3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab11/Jquery Example/jQuery-1.11.3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab11/Jquery Example/jQuery-1.11.3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/jQuery-1.11.3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/jQuery-1.11.3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab12/ball/jQuery-1.11.3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab12/ball/jQuery-1.11.3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/jQuery-1.11.3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/jQuery-1.11.3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab16/ClassicCinema/Cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab16/ClassicCinema/Cart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab16/ClassicCinema/htaccess/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab16/ClassicCinema/htaccess/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab16/ClassicCinema/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab16/ClassicCinema/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab16/ClassicCinema/jQuery-1.11.3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab16/ClassicCinema/jQuery-1.11.3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab16/ClassicCinema/validateCheckout.php" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab16/ClassicCinema/validateCheckout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab17/ClassicCinema/Cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab17/ClassicCinema/Cart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab17/ClassicCinema/CartDisplay.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab17/ClassicCinema/CartDisplay.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab17/ClassicCinema/cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab17/ClassicCinema/cart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab17/ClassicCinema/jQuery-1.11.3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab17/ClassicCinema/jQuery-1.11.3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab17/ClassicCinema/processCartContents.php" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab17/ClassicCinema/processCartContents.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab18/ClassicCinema/jQuery-1.11.3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab18/ClassicCinema/jQuery-1.11.3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab18/ClassicCinema/orders.php" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab18/ClassicCinema/orders.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab21/ClassicCinema/jQuery-1.11.3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab21/ClassicCinema/jQuery-1.11.3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab22/ClassicCinema/jQuery-1.11.3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab22/ClassicCinema/jQuery-1.11.3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/jQuery-1.11.3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/jQuery-1.11.3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/assignment/register.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,73 +150,93 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/contact.php">
+        <entry file="file://$PROJECT_DIR$/assignment/addBooking.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+            <state relative-caret-position="60">
+              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/classic.php">
+        <entry file="file://$PROJECT_DIR$/assignment/js/Booking.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+            <state relative-caret-position="317">
+              <caret line="159" column="52" selection-start-line="159" selection-start-column="52" selection-end-line="159" selection-end-column="52" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/Cart.php">
+        <entry file="file://$PROJECT_DIR$/assignment/htaccess/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/hitchcock.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
-              <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            <state relative-caret-position="60">
+              <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/scifi.php">
+        <entry file="file://$PROJECT_DIR$/assignment/js/Dogs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="630">
+              <caret line="42" column="7" lean-forward="true" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/reviews.js">
+        <entry file="file://$PROJECT_DIR$/assignment/cancelBooking.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="48" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="48" />
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#7#116#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/header.php">
+        <entry file="file://$PROJECT_DIR$/assignment/editDog.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment/removeDog.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+            <state relative-caret-position="782">
+              <caret line="79" selection-end-line="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;c3c8b588-2661-4762-aa6a-5d6b9f974d9b&gt;/assignment/addDog.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;c3c8b588-2661-4762-aa6a-5d6b9f974d9b&gt;/assignment/addBooking.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment/admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -129,8 +247,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="XSLT Stylesheet" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>newBooking</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -138,44 +263,64 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/COSC212 Lab12/ball/ball.html" />
-        <option value="$PROJECT_DIR$/COSC212 Lab12/ball/ball.css" />
-        <option value="$PROJECT_DIR$/COSC212 Lab12/ball/ball.js" />
-        <option value="$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/style.css" />
-        <option value="$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/showHide.js" />
-        <option value="$PROJECT_DIR$/COSC212 Lab10/ClassicCinema/showHide.js" />
-        <option value="$PROJECT_DIR$/COSC212 Lab11/ClassicCinema/reviews.js" />
-        <option value="$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/dynamicList.js" />
-        <option value="&lt;c3c8b588-2661-4762-aa6a-5d6b9f974d9b&gt;/COSC212 Lab12/ClassicCinema/index.html" />
-        <option value="$PROJECT_DIR$/COSC212 Lab123/ball/ball.js" />
-        <option value="$PROJECT_DIR$/COSC212 Lab13/PHP Intro/phpHelloWorld.html" />
-        <option value="$PROJECT_DIR$/COSC212 Lab13/PHP Intro/hello.php" />
-        <option value="$PROJECT_DIR$/COSC212 Lab13/ClassicCinema/footer.php" />
-        <option value="$PROJECT_DIR$/COSC212 Lab13/ClassicCinema/header.php" />
-        <option value="$PROJECT_DIR$/COSC212 Lab13/ClassicCinema/index.php" />
-        <option value="$PROJECT_DIR$/COSC212 Lab13/ClassicCinema/contact.php" />
-        <option value="$PROJECT_DIR$/COSC212 Lab13/ClassicCinema/classic.php" />
-        <option value="$PROJECT_DIR$/COSC212 Lab13/ClassicCinema/Cart.php" />
-        <option value="$PROJECT_DIR$/COSC212 Lab13/ClassicCinema/hitchcock.php" />
-        <option value="$PROJECT_DIR$/COSC212 Lab13/ClassicCinema/scifi.php" />
-        <option value="$PROJECT_DIR$/COSC212 Lab13/ClassicCinema/reviews.js" />
-        <option value="&lt;c3c8b588-2661-4762-aa6a-5d6b9f974d9b&gt;/COSC212 Lab15/ClassicCinema/scifi.php" />
-        <option value="$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/index.php" />
-        <option value="$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/scifi.php" />
-        <option value="$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/hitchcock.php" />
-        <option value="$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/Cart.php" />
-        <option value="$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/classic.php" />
-        <option value="$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/contact.php" />
-        <option value="$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/header.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/logout.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/validateCheckout.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab21/ClassicCinema/GetCartContents.js" />
+        <option value="$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/GetCartContents.js" />
+        <option value="$PROJECT_DIR$/COSC212 Lab23/addReview.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/reviews/The_Man_Who_Knew_Too_Much.xml" />
+        <option value="$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/scifi.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/hitchcock.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/processCartContents.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/classic.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/htaccess/header.php" />
+        <option value="$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/addReview.php" />
+        <option value="&lt;c3c8b588-2661-4762-aa6a-5d6b9f974d9b&gt;/COSC212 Lab23/ClassicCinema/reviews/Attack_of_the_50ft_Woman.xml" />
+        <option value="$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/orders.php" />
+        <option value="$PROJECT_DIR$/COSC212 Assignment 1/map.js" />
+        <option value="$PROJECT_DIR$/Assignment_1 2/js/ShowReviews.js" />
+        <option value="$PROJECT_DIR$/COSC212 Assignment2/htaccess/footer.php" />
+        <option value="$PROJECT_DIR$/COSC212 Assignment2/bookingDisplay.php" />
+        <option value="$PROJECT_DIR$/COSC212 Assignment2/js/bookingDisplay.js" />
+        <option value="$PROJECT_DIR$/Assignment_1 2/style.css" />
+        <option value="&lt;c3c8b588-2661-4762-aa6a-5d6b9f974d9b&gt;/COSC212 Assignment2/json/temp.json" />
+        <option value="$PROJECT_DIR$/COSC212 Assignment2/js/admin.js" />
+        <option value="&lt;c3c8b588-2661-4762-aa6a-5d6b9f974d9b&gt;/COSC212 Assignment2/json/bookings.json" />
+        <option value="$PROJECT_DIR$/COSC212 Assignment2/localParks.php" />
+        <option value="$PROJECT_DIR$/COSC212 Assignment2/addBooking.php" />
+        <option value="$PROJECT_DIR$/COSC212 Assignment2/addDog.php" />
+        <option value="$PROJECT_DIR$/COSC212 Assignment2/admin.php" />
+        <option value="$PROJECT_DIR$/COSC212 Assignment2/cancelBooking.php" />
+        <option value="$PROJECT_DIR$/COSC212 Assignment2/logout.php" />
+        <option value="$PROJECT_DIR$/COSC212 Assignment2/login.php" />
+        <option value="$PROJECT_DIR$/COSC212 Assignment2/register.php" />
+        <option value="$PROJECT_DIR$/COSC212 Assignment2/removeDog.php" />
+        <option value="$PROJECT_DIR$/COSC212 Assignment2/style.css" />
+        <option value="$PROJECT_DIR$/COSC212 Assignment2/js/Booking.js" />
+        <option value="$PROJECT_DIR$/COSC212 Assignment2/js/map.js" />
+        <option value="$PROJECT_DIR$/COSC212 Assignment2/js/ShowReviews.js" />
+        <option value="$PROJECT_DIR$/COSC212 Assignment2/index.php" />
+        <option value="$PROJECT_DIR$/COSC212 Assignment2/editDog.php" />
+        <option value="&lt;c3c8b588-2661-4762-aa6a-5d6b9f974d9b&gt;/COSC212 Assignment2/htaccess/header.php" />
+        <option value="$PROJECT_DIR$/COSC212 Assignment2/htaccess/header.php" />
+        <option value="$PROJECT_DIR$/assignments/addDog.php" />
+        <option value="$PROJECT_DIR$/assignments/cancelBooking.php" />
+        <option value="$PROJECT_DIR$/assignments/editDog.php" />
+        <option value="$PROJECT_DIR$/assignments/removeDog.php" />
+        <option value="$PROJECT_DIR$/assignments/logout.php" />
+        <option value="$PROJECT_DIR$/assignments/addBooking.php" />
+        <option value="&lt;c3c8b588-2661-4762-aa6a-5d6b9f974d9b&gt;/assignment/addBooking.php" />
+        <option value="$PROJECT_DIR$/assignment/addBooking.php" />
+        <option value="$PROJECT_DIR$/assignment/js/Booking.js" />
+        <option value="$PROJECT_DIR$/assignment/htaccess/footer.php" />
+        <option value="$PROJECT_DIR$/assignment/js/admin.js" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="490" />
-    <option name="y" value="23" />
-    <option name="width" value="2070" />
-    <option name="height" value="1337" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="2560" />
+    <option name="height" value="1440" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -188,6 +333,27 @@
             <path>
               <item name="COSC212-SamRoyal" type="b2602c69:ProjectViewProjectNode" />
               <item name="COSC212-SamRoyal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="COSC212-SamRoyal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="COSC212-SamRoyal" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="COSC212-SamRoyal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="COSC212-SamRoyal" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="htaccess" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="COSC212-SamRoyal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="COSC212-SamRoyal" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="COSC212-SamRoyal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -205,7 +371,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/COSC212 Assignment2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -215,15 +381,22 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/COSC212 Lab12/ball" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/COSC212 Lab12" />
+      <recent name="$PROJECT_DIR$/COSC212 Assignment2/htaccess" />
+      <recent name="$PROJECT_DIR$/COSC212 Assignment2/json" />
+      <recent name="$PROJECT_DIR$/COSC212 Assignment2" />
+      <recent name="$PROJECT_DIR$/COSC212 Assignment2/js" />
+      <recent name="$PROJECT_DIR$/COSC212 Assignment2/js/jquery" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/COSC212 Assignment2" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/COSC212 Assignment 1" />
+      <recent name="$PROJECT_DIR$/COSC212 Lab21/ClassicCinema/htaccess" />
+      <recent name="$PROJECT_DIR$/COSC212 Lab16/ClassicCinema" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -238,29 +411,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Cart.php">
-    <configuration name="Cart.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="https://dev212.otago.ac.nz:8443/~sroyal/COSC212 Lab15/ClassicCinema/Cart.php">
+  <component name="RunManager" selected="JavaScript Debug.index.php (2)">
+    <configuration name="admin.php (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="https://dev212.otago.ac.nz:8443/~sroyal/assignments/assignments/admin.php">
       <method v="2" />
     </configuration>
-    <configuration name="hitchcock.php (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="https://dev212.otago.ac.nz:8443/~sroyal/COSC212 Lab15/ClassicCinema/hitchcock.php">
+    <configuration name="index.php (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="https://dev212.otago.ac.nz:8443/~sroyal/assignments/COSC212 Assignment2/index.php">
       <method v="2" />
     </configuration>
-    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="https://dev212.otago.ac.nz:8443/~sroyal/COSC212 Lab15/ClassicCinema/index.php">
+    <configuration name="index.php (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="https://dev212.otago.ac.nz:8443/~sroyal/assignment/index.php">
       <method v="2" />
     </configuration>
-    <configuration name="scifi.php (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="https://dev212.otago.ac.nz:8443/~sroyal/COSC212 Lab15/ClassicCinema/scifi.php">
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="https://dev212.otago.ac.nz:8443/~sroyal/assignment/assignment/index.php">
       <method v="2" />
     </configuration>
-    <configuration name="classic.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/classic.php">
+    <configuration name="admin.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/assignment/admin.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.Cart.php" />
-        <item itemvalue="JavaScript Debug.hitchcock.php (1)" />
-        <item itemvalue="PHP Script.classic.php" />
+        <item itemvalue="JavaScript Debug.index.php (2)" />
         <item itemvalue="JavaScript Debug.index.php" />
-        <item itemvalue="JavaScript Debug.scifi.php (1)" />
+        <item itemvalue="PHP Script.admin.php" />
+        <item itemvalue="JavaScript Debug.admin.php (2)" />
+        <item itemvalue="JavaScript Debug.index.php (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +450,23 @@
       <workItem from="1631578520408" duration="9323000" />
       <workItem from="1632181133709" duration="2241000" />
       <workItem from="1632183494132" duration="5572000" />
-      <workItem from="1633330182506" duration="233000" />
+      <workItem from="1633330182506" duration="7601000" />
+      <workItem from="1633843914719" duration="3098000" />
+      <workItem from="1633900369331" duration="3811000" />
+      <workItem from="1633904643756" duration="22200000" />
+      <workItem from="1634004231661" duration="6100000" />
+      <workItem from="1634077986595" duration="1847000" />
+      <workItem from="1634079888575" duration="1339000" />
+      <workItem from="1634082167574" duration="2811000" />
+      <workItem from="1634085426348" duration="14383000" />
+      <workItem from="1634112386336" duration="373000" />
+      <workItem from="1634112904790" duration="73000" />
+      <workItem from="1634163501365" duration="4595000" />
+      <workItem from="1634169431859" duration="2826000" />
+      <workItem from="1634184552175" duration="6805000" />
+      <workItem from="1634245715109" duration="26412000" />
+      <workItem from="1634331147281" duration="25851000" />
+      <workItem from="1634421565017" duration="2119000" />
     </task>
     <task id="LOCAL-00001" summary="Lab 15 PHP intro">
       <created>1632188981279</created>
@@ -286,17 +475,103 @@
       <option name="project" value="LOCAL" />
       <updated>1632188981279</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="trying to fix github">
+      <created>1633330427040</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633330427040</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Finished lab 16">
+      <created>1633338133954</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1633338133954</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Finished lab 17">
+      <created>1633921282272</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1633921282272</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Finished lab 18">
+      <created>1634094077531</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1634094077531</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Finished lab 21">
+      <created>1634102010564</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1634102010564</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Finished lab 21">
+      <created>1634190306564</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1634190306564</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Finished lab 22">
+      <created>1634190359356</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1634190359356</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Finished lab 23">
+      <created>1634190840900</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1634190840900</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="COSC212_Lab23 - 2021.10.14 at 11h 42m 46s.xml">
+      <configuration name="COSC212 Lab23" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17369000" />
+    <option name="totallyTimeSpent" value="149380000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="490" y="23" width="2070" height="1337" extended-state="0" />
+    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17455621" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.14177918" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32919708" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32919708" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.32919708" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="File Transfer" order="12" weight="0.33868614" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.329927" />
+      <window_info anchor="right" id="Database" order="0" weight="0.32922953" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="4" visible="true" weight="0.17235902" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.077442415" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32931727" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
@@ -310,35 +585,12 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="File Transfer" order="12" weight="0.33895582" />
-      <window_info anchor="right" id="Database" order="0" weight="0.32967034" />
+      <window_info anchor="bottom" id="File Transfer" order="12" visible="true" weight="0.33868614" />
+      <window_info anchor="right" id="Database" order="0" weight="0.32922953" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Remote Host" order="4" weight="0.2790927" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17307693" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32931727" />
-      <window_info anchor="bottom" id="Database Changes" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.32931727" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32931727" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="File Transfer" order="12" weight="0.33895582" />
-      <window_info anchor="right" id="Database" order="0" weight="0.32967034" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Remote Host" order="4" visible="true" weight="0.2790927" />
+      <window_info anchor="right" id="Remote Host" order="4" visible="true" weight="0.17235902" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -347,244 +599,323 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab 15 PHP intro" />
     <MESSAGE value="trying to fix github" />
-    <option name="LAST_COMMIT_MESSAGE" value="trying to fix github" />
+    <MESSAGE value="Finished lab 16" />
+    <MESSAGE value="Finished lab 17" />
+    <MESSAGE value="Finished lab 18" />
+    <MESSAGE value="Finished lab 21" />
+    <MESSAGE value="Finished lab 22" />
+    <MESSAGE value="Finished lab 23" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished lab 23" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/Ajax Example/helloAjax.js" />
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ball/._ball.html" />
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ball/._ball.js" />
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ball/jQuery-1.11.3.min.js">
+    <entry file="file://$PROJECT_DIR$/assignment/js/leaflet-src.esm.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="51" selection-start-line="51" selection-end-line="52" />
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ball/ball.css">
+    <entry file="file://$PROJECT_DIR$/assignment/js/leaflet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/contact.html">
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Assignment2/bookingDisplay.php" />
+    <entry file="file://$PROJECT_DIR$/COSC212 Assignment2/js/bookingDisplay.js" />
+    <entry file="file://$PROJECT_DIR$/Assignment_1 2/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment_1 2/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/CartDisplay.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Assignment2/bookings.json" />
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/GetCartContents.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment/json/temp.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/orders.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-82">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/validateCheckout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="29" column="6" lean-forward="true" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/processCartContents.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/login.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment/json/bookings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/addReview.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/htaccess/footer.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment/json/animals.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/Cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="35" column="69" selection-start-line="35" selection-start-column="69" selection-end-line="38" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Lab23/ClassicCinema/htaccess/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="92" column="56" lean-forward="true" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Assignment 1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Assignment 1/admin.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Assignment 1/animals.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Assignment 1/bookings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COSC212 Assignment 1/bookings.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/COSC212 Assignment 1/dogList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="838">
-          <caret line="136" column="11" lean-forward="true" selection-start-line="134" selection-start-column="8" selection-end-line="136" selection-end-column="11" />
+        <state relative-caret-position="1575">
+          <caret line="109" column="69" lean-forward="true" selection-start-line="109" selection-start-column="69" selection-end-line="109" selection-end-column="69" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
             <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/index.html">
+    <entry file="file://$PROJECT_DIR$/COSC212 Assignment 1/bookingDisplay.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="52" lean-forward="true" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ball/ball.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ball/ball.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-368">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="160" column="14" selection-start-line="160" selection-start-column="14" selection-end-line="160" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab10/helloJQuery.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab10/ClassicCinema/validator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1907">
+        <state>
+          <caret selection-end-line="5" />
           <folding>
-            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab10/ClassicCinema/CartDisplay.js">
+    <entry file="file://$PROJECT_DIR$/COSC212 Assignment 1/bookingDisplay.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab10/ClassicCinema/cart.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab10/ClassicCinema/map.js">
+    <entry file="file://$PROJECT_DIR$/COSC212 Assignment 1/dogList.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="705">
+          <caret line="47" column="4" lean-forward="true" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment/register.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment/js/map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
           <folding>
             <element signature="e#9#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab10/ClassicCinema/showHide.js">
+    <entry file="file://$PROJECT_DIR$/assignment/js/ShowReviews.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="150">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/classic.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab11/ClassicCinema/cart.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab11/ClassicCinema/reviews/The_Jazz_Singer.xml">
+    <entry file="file://$PROJECT_DIR$/assignment/htaccess/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="773">
+          <caret line="60" column="17" lean-forward="true" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab11/ClassicCinema/Cart.html">
+    <entry file="file://$PROJECT_DIR$/assignment/json/POI.geojson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-578" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment/leaflet.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/showHide.js">
+    <entry file="file://$PROJECT_DIR$/assignment/login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="18" selection-end-column="34" />
+          <caret column="52" selection-start-column="52" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/CartDisplay.js">
+    <entry file="file://$PROJECT_DIR$/assignment/addDog.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="25" />
+        <state relative-caret-position="90">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/cart.js">
+    <entry file="file://$PROJECT_DIR$/assignment/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="57" column="56" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment/localParks.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment/logout.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/cookies.js">
+    <entry file="file://$PROJECT_DIR$/assignment/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="195" selection-start-line="195" selection-end-line="195" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment/cancelBooking.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#7#116#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment/editDog.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/hitchcock.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/scifi.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/map.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab13/ball/ball.js" />
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/dynamicList.js">
+    <entry file="file://$PROJECT_DIR$/assignment/removeDog.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        <state relative-caret-position="782">
+          <caret line="79" selection-end-line="79" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab15/PHP Intro/hello.php">
+    <entry file="file://$PROJECT_DIR$/assignment/addBooking.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        <state relative-caret-position="60">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/CartDisplay.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/footer.php">
+    <entry file="file://$PROJECT_DIR$/assignment/js/Booking.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="317">
+          <caret line="159" column="52" selection-start-line="159" selection-start-column="52" selection-end-line="159" selection-end-column="52" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/core-scripting.rnc">
+    <entry file="file://$PROJECT_DIR$/assignment/js/admin.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-39">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        <state relative-caret-position="405">
+          <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab12/ClassicCinema/reviews.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab11/ClassicCinema/reviews.js">
+    <entry file="file://$PROJECT_DIR$/assignment/htaccess/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        <state relative-caret-position="60">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/contact.php">
+    <entry file="file://$PROJECT_DIR$/assignment/js/Dogs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+        <state relative-caret-position="630">
+          <caret line="42" column="7" lean-forward="true" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/classic.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/Cart.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/hitchcock.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/reviews.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="48" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COSC212 Lab15/ClassicCinema/scifi.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

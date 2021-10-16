@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,7 +25,7 @@ include('header.php');
 
 
 
-<form action="validateCheckout.php" method="POST" novalidate>
+<form id="checkoutForm1" action="validateCheckout.php" method="POST" novalidate>
     <fieldset>
         <!-- First section of form is delivery address etc. -->
         <legend>Delivery Details:</legend>

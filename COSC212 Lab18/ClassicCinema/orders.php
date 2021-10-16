@@ -15,8 +15,6 @@ include('header.php');
 ?>
 
 
-
-
 <?php
     $orders = simplexml_load_file('orders.xml');
     foreach ($orders->order as $order) {

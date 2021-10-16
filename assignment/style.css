@@ -1,0 +1,210 @@
+/*
+CSS Style for RentADog Website.
+ */
+*{
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    color: #576675
+
+}
+
+/*
+Line under title
+ */
+hr {
+    border: 0;
+    height: 2px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+    width: 80%;
+}
+
+body {
+
+    background: #eeeeee;
+    font-family: "Montserrat", sans-serif;
+    width: 700px;
+    margin: 0 auto;
+}
+
+
+/*
+NAVIGATION EFFECTS
+ */
+.navMenu {
+    margin: 1%;
+    position: absolute;
+    -webkit-transform: translate(-56%, -56%);
+    transform: translate(-56%, -56%);
+    display: inline-block;
+}
+
+.navMenu a {
+    text-decoration: none;
+    font-size: 1.1em;
+    text-transform: uppercase;
+    font-weight: 500;
+    width: 60%;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+
+.navMenu a:hover {
+    color: #20b2aa;
+}
+
+nav li {
+    flex: 1;
+    display: inline-block;
+    width: 250px;
+    margin: 5px 5px 5px 5px;
+    text-align: center;
+    color: #20b2aa;
+}
+
+
+/*BOOKING PAGE*/
+#bookingData{
+    display: flex;
+}
+
+/*ADMIN PAGE*/
+#adminPage{
+    display: flex;
+    justify-content: center ;
+    width: 150%;
+    right: 24%;
+    position: relative;
+
+}
+
+/*
+HEADINGS
+ */
+h1,
+h2 {
+    margin: 0;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 48px;
+    display: inline-block;
+    text-align: center;
+}
+
+h2 {
+    font-size: 25px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 14px;
+    text-align: center;
+}
+
+figure {
+    margin: 0;
+}
+
+/**   Header **/
+header {
+    top: 0;
+    width: inherit;
+    text-align: center;
+
+}
+
+
+/** main element **/
+/*    !*big top margin to display below header*!*/
+main {
+    margin-top: 10%;
+}
+
+/**   Contact page   **/
+.contact {
+    list-style-type: none;
+    text-align: center;
+}
+
+.contact li {
+    text-align: center;
+    width: 32%;
+}
+
+
+
+
+/*BOOKING PAGE FORMATTING**/
+#siteList {
+    flex:1;
+    padding:5px;
+}
+
+#dogPreviewPane{
+    flex:1;
+    border: 1px solid;
+    padding:5px;
+}
+
+#dogPreviewPane img {
+    width: 100%;
+}
+
+#selectDates {
+    flex:1;
+    padding:5px;
+}
+
+#selectDates label {
+    display: block;
+}
+
+
+/**ADMIN PAGE FORMATTING**/
+
+#bookingPane {
+    flex:1;
+    text-align: center;
+
+}
+
+#dogPane {
+    flex:1;
+    text-align: center;
+}
+
+#addPane {
+    flex:1;
+    text-align: center;
+}
+
+/** FORM FORMATTING  **/
+form { display: inline; }
+
+
+label, input {
+    display: inline-block;
+}
+input {
+    margin-bottom: 15px;
+}
+
+select {
+    margin-bottom: 10px;
+}
+
+
+
+/**   Footer   **/
+footer {
+    text-align: center;
+
+}
+
+
+

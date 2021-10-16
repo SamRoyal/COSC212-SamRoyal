@@ -22,4 +22,4 @@ function CartDetails() {
 function setup() {
     $(".buy").css({cursor: "pointer"}).click(CartDetails);
 }
-$(document).ready(setup);
+$(document).ready(setup);s

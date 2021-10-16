@@ -1,20 +1,21 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Classic Cinema</title>
+    <title>RentADog</title>
     <meta charset="utf-8">
-    <link rel = "stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
 </head>
-<main>
-    <div>
+<body>
+
         <?php
         $currentPage = basename($_SERVER['PHP_SELF']);
         $scriptList =array('jQuery-1.11.3.min.js');
         include('htaccess/header.php');
         include('htaccess/dbconnection.php');
         ?>
-        </div>
+    <main>
     <div>
         <form id="registration" action="<?php echo $_SERVER['PHP_SELF']?>" method="GET">
             <p>
@@ -77,10 +78,12 @@
     </div>
 </main>
 
+
     <div>
         <?php include("htaccess/footer.php"); ?>
 
     </div>
+</body>
 
 
 </html>

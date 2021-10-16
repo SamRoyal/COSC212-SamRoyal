@@ -9,5 +9,6 @@ foreach ($arr as $value){
     echo $value->price;
     echo '</th></tr>';
 }
+
 ?>
 </table>

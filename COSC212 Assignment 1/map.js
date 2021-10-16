@@ -1,4 +1,4 @@
-/* Script that deals with the map displayed on the localParks.html
+/* Script that deals with the map displayed on the localParks.php
 *  @author Sam Royal
 *  COSC212 Assignment 1
 */
@@ -14,7 +14,7 @@ var map = (function () {
         var parksarray = L.layerGroup();
         var walksarray = L.layerGroup();
         map = L.map('map').setView([-45.862857, 170.51143], 15);
-        $.getJSON("POI.geojson", function (data) {
+        $.getJSON("json/POI.geojson", function (data) {
             L.geoJson(data, {
                 "pointToLayer": function (feature, latlng) {
                     return L.circleMarker(latlng, {"fillcolor": feature.properties.color, "color": "#000"});

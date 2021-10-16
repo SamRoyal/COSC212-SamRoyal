@@ -1,15 +1,3 @@
- <?php
-session_start();
-$_SESSION['deliveryName'] = $_POST['deliveryName'];
-$_SESSION['deliveryEmail'] = $_POST['deliveryEmail'];
-$_SESSION['deliveryAddress1'] = $_POST['deliveryAddress1'];
-$_SESSION['deliveryCity'] = $_POST['deliveryCity'];
-$_SESSION['deliveryPostcode'] = $_POST['deliveryPostcode'];
-$_SESSION['cardNumber'] = $_POST['cardNumber'];
-$_SESSION['cardValidation'] = $_POST['cardValidation'];
-$_SESSION['cardType'] = $_POST['cardType'];
- ?>
-
 
 <!DOCTYPE html>
 <html lang="en">
@@ -67,9 +55,7 @@ $_SESSION['cardType'] = $_POST['cardType'];
 
 
     if($formOk == true){
-         "<p>Success!</p>";
-        $_SESSION = array();
-        session_destroy();
+        echo "<p>Success!</p>";
     }
   }
     ?>

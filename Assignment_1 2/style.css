@@ -1,0 +1,75 @@
+/**
+* Nick meek 2021
+* COSC212
+* Style for basic Assignment 1 solution
+ */
+body{
+    width:900px;
+    margin:0 auto;
+}
+
+#bookingData{
+    display: flex;
+}
+
+nav ul{
+    list-style-type: none;
+    display:flex;
+    margin:auto;
+}
+
+nav li{
+    flex:1;
+    text-align: center;
+    width:100px;
+}
+
+
+li {
+    margin-top: 10px;
+}
+
+
+#siteList {
+    flex:1;
+    background-color: antiquewhite;
+}
+
+#dogPreviewPane{
+    flex:1;
+    border: 1px solid;
+    background-color: #e9fadb;
+}
+
+#dogPreviewPane img {
+    width: 100%;
+}
+
+#selectDates {
+    flex:1;
+    background-color: #fadee2;
+}
+
+#selectDates label {
+    display: block;
+}
+
+#map {
+    clear: left;
+    height: 800px;
+    background-color: cornsilk;
+}
+
+#dateErrors {
+    min-height: 70px;
+}
+
+#reviews {
+    background-color: ivory;
+    color: inherit;
+    padding:5px;
+}
+
+#reviews dd{
+    margin-bottom:20px;
+}
